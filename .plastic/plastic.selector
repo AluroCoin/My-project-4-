@@ -1,0 +1,4 @@
+repository "AluronClick@Aluron_game@cloud"
+  path "/"
+    br "/main"
+    co "/main"
